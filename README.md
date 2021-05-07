@@ -10,5 +10,6 @@ I use the datasets available on Kaggle and process the data. I try to apply diff
 
 Brief description of contents (will be updated):
 
-- coffee-beans-review.ipynb - Jupyter notebook which I created to analyze dataset with coffee beans review
+- *coffee-beans-review*.ipynb - Jupyter notebook which I created to analyze dataset with coffee beans review
+- *data-visualization-workshop*.ipynb - Jupyter notebook which I created as a co-host of the free online workshop series about data analysis using Python. I presented this material to a group of 20 people.
 
